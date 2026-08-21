@@ -7,7 +7,6 @@
 * ✉️  You can contact me at [agheysari@aut.ac.ir](mailto:agheysari@aut.ac.ir)
 * 🧠  I'm learning Data Science
 * 🤝  I'm open to collaborating on ML & DL Projects
-* ⚡  I'm a black hat hacker.. but dont tell anymore ;)
 
 <a href="https://www.github.com/codingjustfortest" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/codingjustfortest?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
