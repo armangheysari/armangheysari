@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arman
 
-## 🚀 Junior Data Scientist & Blockchain Developer
+## 🚀 Middle Data Scientist & AI Engineer
 
 > *Coding since 2015 · C/C++ · Python · Ruby · Now diving into AI/ML & Data Science*
 
