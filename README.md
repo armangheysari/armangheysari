@@ -19,12 +19,12 @@ src="https://img.shields.io/github/followers/armangheysari?logo=github&style=for
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/codingjustfortest" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/armangheysari" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
 ### My GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codingjustfortest&show_icons=true&theme=merko&line_height=200&card_width=400" /><img src="https://github-readme-stats.vercel.app/api?username=codingjustfortest&show_icons=true&theme=merko&card_width=400" alt="Arman's GitHub stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=armangheysari&show_icons=true&theme=merko&line_height=200&card_width=400" /><img src="https://github-readme-stats.vercel.app/api?username=armangheysari&show_icons=true&theme=merko&card_width=400" alt="Arman's GitHub stats"/>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingjustfortest&langs_count=10&hide_progress=true&show_icons=true&theme=radical" alt="Top Languages" /></a>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armangheysari&langs_count=10&hide_progress=true&show_icons=true&theme=radical" alt="Top Languages" /></a>
