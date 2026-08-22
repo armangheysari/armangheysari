@@ -8,7 +8,7 @@
 * 🧠  I'm learning Data Science
 * 🤝  I'm open to collaborating on ML & DL Projects
 
-<a href="https://www.github.com/codingjustfortest" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/armangheysari" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/codingjustfortest?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
