@@ -70,20 +70,12 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=armangheysari&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=bb2acf&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=armangheysari&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=bb2acf&include_all_commits=true" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=armangheysari&theme=radical&hide_border=true&background=0D1117&stroke=FFFFFF&ring=BB2ACF&fire=BB2ACF&currStreakNum=FFFFFF&sideLabels=true&date_format=j%20M%20Y" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armangheysari&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffffff&include_all_commits=true&cache_seconds=1800&v=1" alt="Top Languages" width="60%" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=armangheysari&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=armangheysari&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffffff&include_all_commits=true&cache_seconds=1800&v=2" alt="Top Languages" width="60%" />
 </p>
 
 ---
@@ -97,28 +89,6 @@
   <img src="https://img.shields.io/badge/MLOps-Kubeflow-0F9D58?style=flat-square&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Time%20Series-Forecasting-00897B?style=flat-square" />
 </p>
-
----
-
-### 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/armangheysari/OWASP-Nettacker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=armangheysari&repo=OWASP-Nettacker&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffffff" alt="OWASP-Nettacker" />
-  </a>
-</p>
-
----
-
-### 🎯 Focus Areas
-
-```text
-🔍 Cybersecurity Tooling    ████████████████░░░░  80%
-🤖 Machine Learning         ██████████████░░░░░░  70%
-📊 Data Analysis            ████████████░░░░░░░░░  60%
-🌐 Backend Development      ██████████░░░░░░░░░░░  50%
-🔌 IoT & Embedded           ████████░░░░░░░░░░░░░  40%
-```
 
 ---
 
