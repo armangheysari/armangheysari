@@ -99,5 +99,5 @@
 </p>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/armangheysari">armangheysari</a> · Always shipping, always learning</i>
+  <i>⭐️ From <a href="https://github.com/armangheysari">armangheysari</a> · Always learning</i>
 </p>
