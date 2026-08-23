@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/armangheysari?tab=followers">
-    <img src="https://img.shields.io/github/followers/armangheysari?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/armangheysari?logo=github&style=for-the-badge&color=0891b2&label=Followers&labelColor=0891b2&logoColor=white" alt="GitHub followers" />
   </a>
   <a href="https://visitorbadge.io/status?path=armangheysari">
     <img src="https://api.visitorbadge.io/api/visitors?path=armangheysari&label=Visitors&countColor=%23263759" alt="Visitors" />
@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Email-agheysari@aut.ac.ir-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/armangheysari">
-    <img src="https://img.shields.io/badge/GitHub-armangheysari-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-armangheysari-0891b2?style=for-the-badge&logo=github&logoColor=white&labelColor=0891b2" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/armangheysari">
     <img src="https://img.shields.io/badge/LinkedIn-Arman%20Gheysari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -57,6 +57,8 @@
   <!-- AI/ML -->
   <a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="40" height="40" alt="PyTorch" /></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="40" height="40" alt="TensorFlow" /></a>
+  <a href="https://keras.io/" target="_blank"><img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" width="100" height="28" alt="Keras" /></a>
+  <a href="https://www.ros.org/" target="_blank"><img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" width="80" height="28" alt="Robot Operating System" /></a>
   <br>
   <!-- Hardware & Other -->
   <a href="https://ethereum.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="40" height="40" alt="Ethereum" /></a>
@@ -70,12 +72,12 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=armangheysari&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=bb2acf&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=armangheysari&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=bb2acf&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=armangheysari&theme=radical&hide_border=true&background=0D1117&stroke=FFFFFF&ring=BB2ACF&fire=BB2ACF&currStreakNum=FFFFFF&sideLabels=true&date_format=j%20M%20Y" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=armangheysari&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffffff&include_all_commits=true&cache_seconds=1800&v=2" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=armangheysari&langs_count=10&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffffff&cache_seconds=86400&v=3" alt="Top Languages" width="48%" />
 </p>
 
 ---
