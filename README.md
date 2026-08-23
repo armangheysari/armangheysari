@@ -57,8 +57,8 @@
   <!-- AI/ML -->
   <a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="40" height="40" alt="PyTorch" /></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="40" height="40" alt="TensorFlow" /></a>
-  <a href="https://keras.io/" target="_blank"><img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" width="100" height="28" alt="Keras" /></a>
-  <a href="https://www.ros.org/" target="_blank"><img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" width="80" height="28" alt="Robot Operating System" /></a>
+  <a href="https://keras.io/" target="_blank"><img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&labelColor=D00000&style=for-the-badge" width="84" height="28" alt="Keras" /></a>
+  <a href="https://www.ros.org/" target="_blank"><img src="https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white&labelColor=22314E&style=for-the-badge" width="56" height="28" alt="ROS" /></a>
   <br>
   <!-- Hardware & Other -->
   <a href="https://ethereum.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="40" height="40" alt="Ethereum" /></a>
@@ -77,7 +77,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=armangheysari&langs_count=10&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffffff&cache_seconds=86400&v=3" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-beta-orpin.vercel.app/api/top-langs/?username=armangheysari&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&cache_seconds=86400" alt="Top Languages" width="48%" />
 </p>
 
 ---
